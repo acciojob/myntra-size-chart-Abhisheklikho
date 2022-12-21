@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+#table ,th, td{
+    border: 5px solid black;
+    border-collapse: collapse;
+    height: 100px;
+    width: 200px;
+}
+th{
+    background: red;
+}
+td{
+    background: yellow;
+}
